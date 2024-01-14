@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
+**[Home](./) / [Teaching](./teaching.html) / [Activities](./activities.html)**
 
-## Welcome to another page
+#### Publications
 
 _yay_
 
