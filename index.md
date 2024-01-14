@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [Teaching](./teaching.html) / [Publications](./publications.html)
+**[Teaching](./teaching.html) / [Publications](./publications.html)**
 
 ### Latest Publications
 
