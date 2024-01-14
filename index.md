@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-## Latest Publications
+# [Teaching](./teaching.html) / # [Publications](./publications.html)
+
+### Latest Publications
 
 Orhan, S. A. (2023). The Social Democratic Party of Germany (SPD) and Immigration Policies: An Intra-Party Perspective. _German Politics_, 1-29. doi: 10.1080/09644008.2023.2227136
 
