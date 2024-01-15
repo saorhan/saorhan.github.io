@@ -3,6 +3,15 @@ layout: default
 ---
 **[Home](./) / [Teaching](./teaching.html) / [Publications](./publications.html)**
 
+#### Work Experience
+
+2018 – 2023 –	Research Assistant at the Department of Politics<br>
+	Europa-Universität Flensburg
+
+2014 – 2016 –	Student Assistant at International Relations Department<br>
+		Koç University
+
+
 #### Conferences
 
 February 2024 _(forthcoming)_ — Presenter, Migration & Ethnicity Workshop<br>Aarhus University
