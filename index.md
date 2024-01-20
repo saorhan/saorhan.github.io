@@ -6,9 +6,9 @@ layout: default
 <br>
 I am a <a href="https://www.uni-flensburg.de/powi/wer-wir-sind/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter/suat-alper-orhan-ma">doctoral candidate</a> at Europa-Universität Flensburg, focusing on immigration policies, political parties, social democracy and left-wing politics. 
 I worked as a research assistant, lecturer, and thesis supervisor for undergraduate students throughout my doctoral studies. <br><br>
-Previously, I had an M.A. in European Studies (from EUF) and a B.A. in International Relations and Political Science (from Koç University, Istanbul).<br>
+Previously, I obtained an M.A. in European Studies (from EUF) and a B.A. in International Relations and Political Science (from Koç University, Istanbul).<br>
 
-#### Latest Publications
+#### Latest Publication(s)
 
 Orhan, S. A. (forthcoming). How do intra-party dynamics impact the party elite’s immigration policy manoeuvres? The Case of German Social Democrats. Accepted for publication at _Acta Politica_.
 
