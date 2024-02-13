@@ -14,7 +14,7 @@ layout: default
 
 #### Conferences
 
-February 2024 _(forthcoming)_ — Presenter, Migration & Ethnicity Workshop<br>Aarhus University
+February 2024 — Presenter, Migration & Ethnicity Workshop<br>Aarhus University
 
 February 2024 — Presenter, 15th Düsseldorf Graduate Conference on Party Research (GraPa)<br>
 Düsseldorf Party Research Institute (PRUF) & Universität Düsseldorf
