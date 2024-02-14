@@ -10,6 +10,6 @@ Previously, I obtained an M.A. in European Studies (from EUF) and a B.A. in Inte
 
 #### Latest Publication(s)
 
-Orhan, Suat Alper (forthcoming). "From Dissent to Cohesion: Immigration Policy Shift and Intra-Party Dynamics in the Danish Social Democratic Party." Accepted for publication at _Party Politics_.
+Orhan, Suat Alper (2024). ["From Dissent to Cohesion: Immigration Policy Shift and Intra-Party Dynamics in the Danish Social Democratic Party."](https://doi.org/10.1177/13540688241234785) _Party Politics_, 1-12.
 
-Orhan, Suat Alper (forthcoming). "How do intra-party dynamics impact the party elite’s immigration policy manoeuvres? The Case of German Social Democrats." Accepted for publication at _Acta Politica_.
+Orhan, Suat Alper (2024). ["How do intra-party dynamics impact the party elite’s immigration policy manoeuvres? The Case of German Social Democrats."](https://doi.org/10.1057/s41269-024-00330-0) _Acta Politica_, 1-14.
