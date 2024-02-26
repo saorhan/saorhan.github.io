@@ -5,7 +5,7 @@ layout: default
 
 #### Publications
 
-Orhan, S. A. (2024). [From Dissent to Cohesion: Immigration Policy Shift and Intra-Party Dynamics in the Danish Social Democratic Party.](https://doi.org/10.1177/13540688241234785) _Party Politics_, 1-12.
+Orhan, S. A. (2024). [From dissent to cohesion: Immigration policy shift and intra-party dynamics in the Danish Social Democratic Party.](https://doi.org/10.1177/13540688241234785) _Party Politics_, 1-12.
 
 Orhan, S. A. (2024). [How do intra-party dynamics impact the party elite’s immigration policy manoeuvres? The Case of German Social Democrats.](https://doi.org/10.1057/s41269-024-00330-0) _Acta Politica_, 1-14.
 
