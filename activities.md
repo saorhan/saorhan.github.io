@@ -14,6 +14,8 @@ layout: default
 
 #### Conferences
 
+August 2024 (forthcoming) - Presenter, General Conference 2024 (Dublin)<br>European Consortium for Political Research (ECPR)
+
 February 2024 — Presenter, Migration & Ethnicity Workshop<br>Aarhus University
 
 February 2024 — Presenter, 15th Düsseldorf Graduate Conference on Party Research (GraPa)<br>
@@ -21,7 +23,7 @@ Düsseldorf Party Research Institute (PRUF) & Universität Düsseldorf
 
 November 2023 — Presenter, 55th Annual Meeting 2023<br>Danish Political Science Association (DPSA)
 
-September 2023 — Presenter, General Conference 2023<br>European Consortium for Political Research (ECPR)
+September 2023 — Presenter, General Conference 2023 (Prague)<br>European Consortium for Political Research (ECPR)
 
 February 2023 — Presenter, 14th Düsseldorf Graduate Conference on Party Research (GraPa) <br>
 Düsseldorf Party Research Institute (PRUF) & Universität Düsseldorf
