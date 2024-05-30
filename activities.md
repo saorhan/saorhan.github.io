@@ -11,10 +11,13 @@ layout: default
 2014 – 2016 –	Student Assistant at International Relations Department<br>
 		Koç University
 
+#### Outreach
+
+May 2024 — [Interview with the Irish Times](https://www.irishtimes.com/world/europe/2024/05/29/how-denmarks-social-democrats-stole-far-right-thunder-on-migration/) on Danish Social Democrats, their immigration policies and the 2024 European Elections
 
 #### Conferences
 
-August 2024 (forthcoming) - Presenter, General Conference 2024 (Dublin)<br>European Consortium for Political Research (ECPR)
+August 2024 (forthcoming) — Presenter, General Conference 2024 (Dublin)<br>European Consortium for Political Research (ECPR)
 
 February 2024 — Presenter, Migration & Ethnicity Workshop<br>Aarhus University
 
