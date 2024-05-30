@@ -10,8 +10,6 @@ Previously, I obtained an M.A. in European Studies (from EUF) and a B.A. in Inte
 
 #### Latest Publication(s) & Updates
 
-2024 - [Interview with the Irish Times](https://www.irishtimes.com/world/europe/2024/05/29/how-denmarks-social-democrats-stole-far-right-thunder-on-migration/) on Danish Social Democrats, their immigration policies and the 2024 European Elections.
+May 2024 — [Interview with the Irish Times](https://www.irishtimes.com/world/europe/2024/05/29/how-denmarks-social-democrats-stole-far-right-thunder-on-migration/) on Danish Social Democrats, their immigration policies and the 2024 European Elections.
 
 Orhan, S. A. (2024). [From dissent to cohesion: Immigration policy shift and intra-party dynamics in the Danish Social Democratic Party.](https://doi.org/10.1177/13540688241234785) _Party Politics_, 1-12.
-
-Orhan, S. A. (2024). [How do intra-party dynamics impact the party elite’s immigration policy manoeuvres? The case of German Social Democrats.](https://doi.org/10.1057/s41269-024-00330-0) _Acta Politica_, 1-23.
