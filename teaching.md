@@ -5,6 +5,9 @@ layout: default
 
 #### Teaching
 
+Fall 2024/25	–	Academic Reading and Writing
+			<br>European Cultures and Society (B.A.), Europa-Universität Flensburg
+
 Spring 2023	–	Politics of European Integration
 			<br>European Cultures and Society (B.A.), Europa-Universität Flensburg
 <br><br>
