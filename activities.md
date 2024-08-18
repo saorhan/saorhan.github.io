@@ -17,7 +17,7 @@ May 2024 — [Interview with the Irish Times](https://www.irishtimes.com/world/e
 
 #### Conferences
 
-August 2024 (forthcoming) — Presenter, General Conference 2024 (Dublin)<br>European Consortium for Political Research (ECPR)
+August 2024 — Presenter, General Conference 2024 (Dublin)<br>European Consortium for Political Research (ECPR)
 
 February 2024 — Presenter, Migration & Ethnicity Workshop<br>Aarhus University
 
