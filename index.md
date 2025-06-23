@@ -12,4 +12,4 @@ Previously, I obtained an M.A. in European Studies (from EUF) and a B.A. in Inte
 
 May 2024 — [Interview with the Irish Times](https://www.irishtimes.com/world/europe/2024/05/29/how-denmarks-social-democrats-stole-far-right-thunder-on-migration/) on Danish Social Democrats, their immigration policies and the 2024 European Elections.
 
-Orhan, S. A. (2024). [From dissent to cohesion: Immigration policy shift and intra-party dynamics in the Danish Social Democratic Party.](https://doi.org/10.1177/13540688241234785) _Party Politics_, 1-12.
+Orhan, S. A. (2024). [From dissent to cohesion: Immigration policy shift and intra-party dynamics in the Danish Social Democratic Party.](https://doi.org/10.1177/13540688241234785) _Party Politics 31_(3), 537-548.
