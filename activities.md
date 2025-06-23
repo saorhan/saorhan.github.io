@@ -17,7 +17,7 @@ May 2024 — [Interview with the Irish Times](https://www.irishtimes.com/world/e
 
 #### Conferences
 
-August 2025 _forthcoming_ — Presenter, General Conference 2024 (Thessaloniki)<br>European Consortium for Political Research (ECPR)
+August 2025 — Presenter, General Conference 2024 (Thessaloniki)<br>European Consortium for Political Research (ECPR) (_forthcoming_)
 
 August 2024 — Presenter, General Conference 2024 (Dublin)<br>European Consortium for Political Research (ECPR)
 
