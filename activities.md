@@ -5,7 +5,7 @@ layout: default
 
 #### Work Experience
 
-2018 – 2023 –	Research Assistant at the Department of Politics<br>
+2018 – 2025 –	Research Assistant at the Department of Politics<br>
 	Europa-Universität Flensburg
 
 2014 – 2016 –	Student Assistant at International Relations Department<br>
@@ -16,6 +16,8 @@ layout: default
 May 2024 — [Interview with the Irish Times](https://www.irishtimes.com/world/europe/2024/05/29/how-denmarks-social-democrats-stole-far-right-thunder-on-migration/) on Danish Social Democrats, their immigration policies and the 2024 European Elections
 
 #### Conferences
+
+August 2025 _forthcoming_ — Presenter, General Conference 2024 (Thessaloniki)<br>European Consortium for Political Research (ECPR)
 
 August 2024 — Presenter, General Conference 2024 (Dublin)<br>European Consortium for Political Research (ECPR)
 
